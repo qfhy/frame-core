@@ -1,2 +1,6 @@
 /.idea
 /frame-core.iml
+/src/main/java/com/wdbgxs/www/test/
+/target/
+/src/test/
+/target
